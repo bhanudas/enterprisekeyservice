@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Enterprise_Key__c</fullName>
+    <description>Enterprise Key field related to Object Type</description>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Enterprise Key field related to Object Type</inlineHelpText>
+    <label>Enterprise Key</label>
+    <metadataRelationshipControllingField>Enterprise_Key_Field__mdt.Object_Type__c</metadataRelationshipControllingField>
+    <referenceTo>FieldDefinition</referenceTo>
+    <relationshipLabel>Enterprise_Key_Fields</relationshipLabel>
+    <relationshipName>Enterprise_Key_Fields</relationshipName>
+    <required>false</required>
+    <type>MetadataRelationship</type>
+    <unique>false</unique>
+</CustomField>
